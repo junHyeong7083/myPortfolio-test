@@ -1,16 +1,16 @@
 {
-  "name": "Chetan",
+  "name": "JunHyeong",
   "headerTaglineOne": "Hello 👋",
-  "headerTaglineTwo": "I'm Chetan Verma - curious",
+  "headerTaglineTwo": "I'm JunHyeong Park",
   "headerTaglineThree": "designer and devloper",
-  "headerTaglineFour": " based in New Delhi, India.",
+  "headerTaglineFour": " based in Seoul, Korea.",
   "showBlog": true,
   "darkMode": true,
   "socials": [
     {
       "id": "1",
       "title": "Github",
-      "link": "https://github.com/chetanverma16"
+      "link": "https://github.com/junHyeong7083"
     },
     {
       "id": "2",
@@ -22,16 +22,18 @@
       "title": "Twitter",
       "link": "https://twitter.com/realchetanverma"
     },
-    { "id": "4", "title": "Blog", "link": "https://blog.chetanverma.com/" },
-    { "id": "5", "title": "Email", "link": "mailto:hello@chetanverma.com" }
+    { "id": "4", "title": "Blog", "link": "https://blog.naver.com/pjh7083" },
+    { "id": "5", "title": "Email", "link": "parkjunhyeong0902@gmail.com" }
   ],
+
+
   "projects": [
     {
       "id": "1",
-      "title": "Project One Test",
-      "description": "Web Design",
+      "title": "History",
+      "description": "Game development",
       "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "url": "https://github.com/junHyeong7083/GameProject-History-"
     },
     {
       "id": "2",
